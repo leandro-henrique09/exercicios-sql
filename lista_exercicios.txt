@@ -1,0 +1,45 @@
+🔰 NÍVEL BÁSICO (SELECT, WHERE, ORDER BY)
+
+1- Liste todos os clientes cadastrados.
+
+2- Liste nome e preço de todos os produtos ativos.
+
+3- Liste os produtos da categoria "Eletrônicos".
+
+4- Mostre os clientes do estado SP.
+
+5- Liste os pedidos feitos após 2024-01-01.
+
+6- Liste os produtos ordenados pelo preço (do mais caro para o mais barato).
+
+7- Liste os clientes ordenados pela data de cadastro (mais recente primeiro).
+
+============================================================================
+
+🔁 NÍVEL INTERMEDIÁRIO (JOIN, GROUP BY, HAVING)
+
+1- Liste os pedidos com o nome do cliente.
+
+2- Liste os itens do pedido mostrando:
+
+número do pedido
+
+nome do produto
+
+quantidade
+
+preço unitário
+
+3- Mostre o valor total de cada pedido.
+
+4- Quantos pedidos cada cliente já fez?
+
+5- Qual categoria tem mais produtos cadastrados?
+
+6- Qual cliente gastou mais dinheiro na loja?
+
+7- Liste apenas os pedidos com valor total maior que R$ 500.
+
+8- Quantos produtos foram vendidos por categoria?
+
+9- Mostre a média de valor dos pedidos.
