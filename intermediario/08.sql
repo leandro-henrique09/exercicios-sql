@@ -1,0 +1,1 @@
+-- 8- Quantos produtos foram vendidos por categoria?
