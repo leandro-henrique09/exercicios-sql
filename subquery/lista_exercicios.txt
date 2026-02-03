@@ -1,0 +1,30 @@
+🟢 Nível 1 — Subquery simples (WHERE)
+
+1. Liste o nome dos clientes que fizeram algum pedido.
+
+2. Liste os clientes que não fizeram nenhum pedido.
+
+3. Liste os pedidos cujo valor do pagamento é maior que a média de todos os pagamentos.
+
+🟡 Nível 2 — Subquery com agregação
+
+4. Liste os clientes cujo total gasto é maior que a média de gasto dos clientes.
+
+5. Liste os clientes que fizeram pedidos com valor acima de R$ 300.
+
+6. Liste os pedidos que possuem mais de 1 item.
+➡️ dica: GROUP BY dentro da subquery
+
+
+🔵 Nível 3 — Subquery correlacionada (nível intermediário)
+
+7. Liste os clientes que fizeram pedidos com valor maior que a média dos pedidos desse próprio cliente.
+
+8. Para cada cliente, mostre o nome e o valor do maior pagamento que ele já fez.
+➡️ dica: subquery no SELECT
+
+🔴 Desafio (misturando tudo)
+
+9. Liste os clientes que gastaram mais que o cliente Ana.
+
+10. Liste os clientes de São Paulo cujo total gasto seja maior que a média geral de gastos.
